@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <p float="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiSinha08&layout=compact&hide=html&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbhiSinha08&show_icons=true&theme=tokyonight&hide=prs" />
+<img width="200" src="https://github-readme-stats.vercel.app/api?username=AbhiSinha08&show_icons=true&theme=tokyonight&hide=prs" />
 </p>
