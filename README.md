@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiSinha08&layout=compact&hide=html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 <p float="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiSinha08&layout=compact&hide=html&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiSinha08&layout=compact&hide=html&theme=tokyonight" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhiSinha08&show_icons=true&theme=tokyonight&hide=prs,issues,contribs" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbhiSinha08&show_icons=true&theme=tokyonight&hide=prs" />
 </p>
