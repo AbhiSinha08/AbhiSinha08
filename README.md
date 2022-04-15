@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiSinha08&layout=compact&hide=html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 <p float="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiSinha08&layout=compact&hide=html&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiSinha08&layout=compact&hide=html&theme=tokyonight&langs_count=6" />
 
-<img width="200" src="https://github-readme-stats.vercel.app/api?username=AbhiSinha08&show_icons=true&theme=tokyonight&hide=prs" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AbhiSinha08&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_rank=true" />
 </p>
