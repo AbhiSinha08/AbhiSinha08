@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p float="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiSinha08&exclude_repo=med-vault&layout=compact&hide=html,css&theme=tokyonight&langs_count=6" />
+<img align="left" src="https://github-readme-stats-lilac-two-76.vercel.app/api/top-langs/?username=AbhiSinha08&exclude_repo=med-vault&layout=compact&hide=html,css&theme=tokyonight&langs_count=6" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AbhiSinha08&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_rank=true" />
+<img align="right" src="https://github-readme-stats-lilac-two-76.vercel.app/api?username=AbhiSinha08&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_rank=true" />
 </p>
